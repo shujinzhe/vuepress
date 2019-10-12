@@ -12,5 +12,3 @@ git commit -m 'deploy_source'
 
 # 如果你想要部署到 https://<USERNAME>.github.io/<REPO>
 git push git@github.com:shujinzhe/vuepress.git master
-
-cd -
