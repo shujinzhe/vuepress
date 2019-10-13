@@ -4,8 +4,7 @@
   "scripts": {
     "dev": "vuepress dev docs",
     "build": "vuepress build docs",
-    "deploy": "bash deploy.sh",
-    "source": "bash deploy_source.sh"
+    "deploy": "bash deploy.sh"
   },
   "dependencies": {
     "@babel/code-frame": {

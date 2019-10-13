@@ -6,7 +6,7 @@ module.exports = {
 		['link', { rel: 'icon', href: '/img/logo.ico' }]
 	],
 	port: 8080,
-	dest: '../vuepress_deploy/dist',
+	dest: 'c:/vuepress_deploy/dist',
 	locales: {
 		'/': {
 		  lang: 'zh-CN'
