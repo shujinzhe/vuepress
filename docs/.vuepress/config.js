@@ -13,14 +13,22 @@ module.exports = {
 		}
 	},
 	themeConfig: {
-    nav: [
-		{ text: '大数据组件',
-			items: [
-				{ text: 'Spark', link: '/bigdata/spark/' },
-				{ text: 'Hadoop', link: '/bigdata/hadoop/' }
-			]	  
-		},
-		{ text: '力扣算法', link: '/leetcode/' }
-    ]
+		lastUpdated: '上次更新',
+		activeHeaderLinks: false, // 默认值：true
+		displayAllHeaders: true,
+		nav: [
+			{ text: '大数据组件',
+				items: [
+					{ text: 'Spark', link: '/bigdata/spark/' },
+					{ text: 'Hadoop', link: '/bigdata/hadoop/' }
+				]	  
+			},
+			{ text: '力扣算法', link: '/leetcode/' }
+		],
+		sidebar: [
+		  '/',
+		  '/bigdata/spark/',
+		  '/bigdata/hadoop/'
+		]
   }
 }
