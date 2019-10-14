@@ -17,10 +17,6 @@ module.exports = {
 		activeHeaderLinks: false, // 默认值：true
 		// displayAllHeaders: true,
 		nav: require("./nav.js"),
-		sidebar: [
-		  '/',
-		  '/bigdata/spark/',
-		  '/bigdata/hadoop/'
-		]
-  }
+		sidebar: require("./sidebar.js")
+	}
 }
