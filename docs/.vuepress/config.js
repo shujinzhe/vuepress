@@ -17,6 +17,10 @@ module.exports = {
 		activeHeaderLinks: false, // 默认值：true
 		// displayAllHeaders: true,
 		nav: require("./nav.js"),
-		sidebar: require("./sidebar.js")
+		sidebar: require("./sidebar.js"),
+		sidebarDepth: 2,
+		searchMaxSuggestoins: 10,
+		editLinks: true,
+		editLinkText: '在GitHub上编辑此页！'
 	}
 }
