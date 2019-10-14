@@ -5,5 +5,10 @@ module.exports = [
 			{ text: 'Hadoop', link: '/bigdata/hadoop/' }
 		]	  
 	},
-	{ text: '力扣算法', link: '/leetcode/' }
+	{ text: '算法题解',
+		items: [
+			{ text: '力扣', link: '/algorithm/leetcode/' },
+			{ text: '剑指Offer', link: '/algorithm/arrow_to_offer/' }
+		]	 
+	}
 ]
