@@ -10,5 +10,10 @@ module.exports = [
 			{ text: '力扣', link: '/algorithm/leetcode/' },
 			{ text: '剑指Offer', link: '/algorithm/arrow_to_offer/' }
 		]	 
+	},
+	{ text: '编程语言',
+		items: [
+			{ text: 'Python', link: '/programming_language/python/' }
+		]	 
 	}
 ]
