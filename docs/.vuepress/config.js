@@ -20,7 +20,7 @@ module.exports = {
         // 可选，默认为 master
         docsBranch: 'master',
         // 默认为 true，设置为 false 来禁用
-        editLinks: true,
+        editLinks: false,
         // 显示上次更新字样
 		lastUpdated: '上次更新',
         // 默认值：true
