@@ -36,7 +36,7 @@ module.exports = {
         // 搜索最大返回条数
 		searchMaxSuggestoins: 10,
         // 编辑连接
-		editLinks: true,
-		editLinkText: '在GitHub上编辑此页！'
+		// editLinks: true,
+		// editLinkText: '在GitHub上编辑此页！'
 	}
 }
