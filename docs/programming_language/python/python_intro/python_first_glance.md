@@ -189,11 +189,11 @@ pip3 install ipython
 
 安装成功后，可以通过下面的ipython命令启动IPython，如下图所示。
 
-![](C:/Users/shuji/Desktop/Python-100-Days-master/Day01-15/res/python-ipython.png)
+![](/python_intro/python-ipython.png)
 
 ### Sublime Text - 高级文本编辑器
 
-![](C:/Users/shuji/Desktop/Python-100-Days-master/Day01-15/res/python-sublime.png)
+![](/python_intro/python-sublime.png)
 
 - 首先可以通过[官方网站](https://www.sublimetext.com/)下载安装程序安装Sublime Text 3或Sublime Text 2。
 
