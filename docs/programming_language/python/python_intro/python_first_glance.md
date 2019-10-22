@@ -171,7 +171,7 @@ print('goodbye, world', end='!\n')
 
 IDLE是安装Python环境时自带的集成开发工具，如下图所示。但是由于IDLE的用户体验并不是那么好所以很少在实际开发中被采用。
 
-![](C:/Users/shuji/Desktop/Python-100-Days-master/Day01-15/res/python-idle.png)
+![](python_intro/python-idle.png)
 
 ### IPython - 更好的交互式编程工具
 
@@ -189,7 +189,7 @@ pip3 install ipython
 
 安装成功后，可以通过下面的ipython命令启动IPython，如下图所示。
 
-![](/python_intro/python-ipython.png)
+![](python_intro/python-ipython.png)
 
 ### Sublime Text - 高级文本编辑器
 
